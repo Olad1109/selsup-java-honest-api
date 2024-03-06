@@ -5,7 +5,7 @@ out/
 !**/src/test/**/out/
 
 ### Eclipse ###
-.apt_generated
+.apt_generateds
 .classpath
 .factorypath
 .project
@@ -25,7 +25,11 @@ bin/
 
 ### VS Code ###
 .vscode/
-backREADME.md
 
 ### Mac OS ###
 .DS_Store
+
+### Other ###
+backREADME.md
+*.txt
+*.class
